@@ -1,8 +1,8 @@
 #include <iostream>
-#include <taglib/taglib.h>
-#include <taglib/tag.h>
-#include <taglib/fileref.h>
-#include <taglib/tstring.h>
+#include "taglib/taglib.h"
+#include "taglib/tag.h"
+#include "taglib/fileref.h"
+#include "taglib/tstring.h"
 #include <string>
 #include "json.hpp"
 
